@@ -1,4 +1,4 @@
-var Tweet = Backbone.Model.extend({
+var SimpleListItem = Backbone.Model.extend({
 	defaults: function() {
 		return {
     		title: '',
